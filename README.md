@@ -80,18 +80,13 @@ my specific setup:
 Troubleshooting:
 
 1. The PDMS fails to cure in some places
-
-A: Ensure PDMS is thoroughly mixed. 
-   Wash the dish soap coating from the master and re-do it, ensuring your coating is as thin and uniform as possible
+- A: Ensure PDMS is thoroughly mixed. Wash the dish soap coating from the master and re-do it, ensuring your coating is as thin and uniform as possible
 
 2. The PDMS is difficult to remove from the master
-
-A: Yes, it is. You have to be careful and patient. 
+- A: Yes, it is. You have to be careful and patient. 
 
 3. The PDMS is impossible to remove from the master
-A: If the soap coating is insufficient to keep the PDMS from sticking the PDMS will be very difficult to remove completely. Print a new master.
+- A: If the soap coating is insufficient to keep the PDMS from sticking the PDMS will be very difficult to remove completely. Print a new master.
 
 4. The PDMS has failed to bond to the microscope slide in some places. 
-
-A: You either have a contaminant on your surfaces or the plasma cleaning process wasn't thorough enough. 
-   Start over with a freshly casted replica. 
+- A: You either have a contaminant on your surfaces or the plasma cleaning process wasn't thorough enough. Start over with a freshly casted replica. 
