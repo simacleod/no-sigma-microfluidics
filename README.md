@@ -16,7 +16,7 @@ The other obvious boon to the setup is the recent commercialization of cheap 4K 
 - 4K 3D resin printer
 - UV curing chamber or UV flashlight
 - resin printer cleaning station or >250ml mason jar
-- 10W cosmetic plasma wand
+- 10W cosmetic plasma wand, with wire stuck in the holder
 
 ### Materials
 
