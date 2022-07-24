@@ -37,7 +37,7 @@ Wear a facemask and gloves when working with the 3D printer/PDMS resin.
 ## Instructions
 
 ### MASTER MOLD FABRICATION
-1. Design a master mold for your device. Remember poiselles law, and trust your instincts. Or do a bunch of math in comsol like a nerd lol.
+1. Design a master mold for your device. Remember poiseuille's law, and trust your instincts. Or do a bunch of math in comsol like a nerd lol.
 2. Print the mold at the optimal settings for your printer/resin that give the best detail.
 3. Follow the usual steps for cleaning/curing a resin print. Ensure all uncured resin is thoroughly removed.
 
