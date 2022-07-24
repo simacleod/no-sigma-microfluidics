@@ -70,14 +70,14 @@ Wear a facemask and gloves when working with the 3D printer/PDMS resin.
 If everything was done correctly, the device should now be firmly bonded to the microscope slide. Pinch the sides firmly to confirm the strength of the bond.
 
 
-my specific setup:
+#### my specific setup:
 - printer - Elegoo Mars 3 Pro 4K https://www.amazon.com/dp/B09JNRVBYB?psc=1&ref=ppx_yo2ov_dt_b_product_details
 - uv resin - Elegoo ABS-like translucent https://www.amazon.com/dp/B09D82B1GQ?psc=1&ref=ppx_yo2ov_dt_b_product_details
 - PDMS resin - QSIL 216 https://www.amazon.com/dp/B075F5CKFX?psc=1&ref=ppx_yo2ov_dt_b_product_details
 - print settings - 50um layer height, 15sec exposure time  60sec/3 layer burn-in
 - Plasma wand - NuDerma https://www.amazon.com/dp/B06W5PD1KY?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
-Troubleshooting:
+### Troubleshooting:
 
 1. The PDMS fails to cure in some places
 - A: Ensure PDMS is thoroughly mixed. Wash the dish soap coating from the master and re-do it, ensuring your coating is as thin and uniform as possible
